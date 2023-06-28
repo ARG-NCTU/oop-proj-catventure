@@ -8,7 +8,7 @@ In the game, players take on the role of a small black cat with the objective of
 
 ## Run the game
 
-1. Download Catventure.zip
+1. Download Catventure.zip (In the Releases)
 2. Extract Catventure.zip
 3. Run Catventure.exe directly.
 
