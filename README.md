@@ -1,8 +1,8 @@
-# Game Name
+## Game Name
 
 Catventure
 
-# Game Objective
+## Game Objective
 
 In the game, players take on the role of a small black cat with the objective of collecting as many cat food cans as possible. The quantity of cat food cans collected serves as the game score. Throughout the game, there will be numerous traps that hinder your scoring progress, and the number of traps will increase over time. However, there will also be power-up items that can enhance your abilities and make you stronger.
 
@@ -41,13 +41,13 @@ Darts - Randomly generate and bounce around the screen when the score is greater
 Ghost 1 - Appears when stars are collected and chases the player
 Ghost 2 - Appears when stars are collected and bounces around the screen
 
-# Items
+## Items
 
 Shield - Grants 3 seconds of invincibility
 Potion - Increases life by 1, but not exceeding the original life value.
 Fire - Bullets scatter within 4 seconds
 
-# Game records
+## Game records
 
 You can find your score & play time in the Records.txt 
 
