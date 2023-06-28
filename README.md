@@ -27,25 +27,25 @@ Our program is 100% secure, but a security warning may appear when you run Catve
 
 ## Game Controls
 
-A - Move left
-S - Move right
-D - Drop down
-Space - Jump
-Left mouse button - Shoot bullets
+1. A - Move left
+2. S - Move right
+3. D - Drop down
+4. Space - Jump
+5. Left mouse button - Shoot bullets
 
 ## Traps
 
-Arrows - Randomly fall from the sky
-Saws - Randomly spawn on the ground when the score is greater than 5
-Darts - Randomly generate and bounce around the screen when the score is greater than 10
-Ghost 1 - Appears when stars are collected and chases the player
-Ghost 2 - Appears when stars are collected and bounces around the screen
+1. Arrows - Randomly fall from the sky
+2. Saws - Randomly spawn on the ground when the score is greater than 5
+3. Darts - Randomly generate and bounce around the screen when the score is greater than 10
+4. Ghost 1 - Appears when stars are collected and chases the player
+5. Ghost 2 - Appears when stars are collected and bounces around the screen
 
 ## Items
 
-Shield - Grants 3 seconds of invincibility
-Potion - Increases life by 1, but not exceeding the original life value.
-Fire - Bullets scatter within 4 seconds
+1. Shield - Grants 3 seconds of invincibility
+2. Potion - Increases life by 1, but not exceeding the original life value.
+3. Fire - Bullets scatter within 4 seconds
 
 ## Game records
 
@@ -57,5 +57,5 @@ Hope you enjoy this game!
 
 ## Developer
 
-連哲寬/LIEN,CHE-KUAN 
+連哲寬/LIEN,CHE-KUAN  
 lian.ee11@nycu.edu.tw
