@@ -1,6 +1,6 @@
 ## Game Name
 
-Catventure
+貓險王 - Catventure
 
 ## Game Objective
 
