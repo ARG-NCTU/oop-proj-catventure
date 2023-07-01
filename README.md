@@ -1,10 +1,10 @@
-## Game Name
+## Name
 
 貓險王 - Catventure
 
-## Game Objective
+## Description 
 
-In the game, players take on the role of a small black cat with the objective of collecting as many cat food cans as possible. The quantity of cat food cans collected serves as the game score. Throughout the game, there will be numerous traps that hinder your scoring progress, and the number of traps will increase over time. However, there will also be power-up items that can enhance your abilities and make you stronger.
+In the game, you become a little black cat and your goal is to gather as many cans of cat food as you can. The more cans you collect, the higher your score will be. Along the way, you'll come across traps that make it harder to score, and their number will grow as you play. But don't worry, you'll also find power-up items that boost your abilities and make you even better.
 
 ## Run the game
 
@@ -25,7 +25,7 @@ Our program is 100% secure, but a security warning may appear when you run Catve
 
 "Catventure.py is the source code of this game."
 
-## Game Controls
+## Controls
 
 1. A - Move left
 2. S - Move right
@@ -47,7 +47,7 @@ Our program is 100% secure, but a security warning may appear when you run Catve
 2. Potion - Increases life by 1, but not exceeding the original life value.
 3. Fire - Bullets scatter within 4 seconds
 
-## Game records
+## Records
 
 You can find your score & play time in the Records.txt 
 
