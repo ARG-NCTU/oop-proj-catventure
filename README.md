@@ -9,7 +9,7 @@ In the game, you become a little black cat and your goal is to gather as many ca
 Download and run the game
 ```
 $ cd ~
-$ git clone git@github.com:ARG-NCTU/oop-proj-17.git
+$ git clone git@github.com:ARG-NCTU/oop-proj-catventure.git
 ```
 Run docker
 ```
